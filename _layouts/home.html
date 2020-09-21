@@ -5,6 +5,17 @@ layout: archive
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+---
+title: "Test Post"
+date: 2017-10-13
+unity_dir: game_post
+categories:
+  - General
+tags:
+  - test
+---
+
+This is a test post.
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
