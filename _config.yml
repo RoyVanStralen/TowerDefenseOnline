@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Roy"
 description              : "An amazing website."
-url                      : "https://royvanstralen.github.io"
+url                      : #"https://royvanstralen.github.io"
 baseurl                  : "towerdefenseonline"
 repository               : "https://royvanstralen.github.io/towerdefenseonline"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
